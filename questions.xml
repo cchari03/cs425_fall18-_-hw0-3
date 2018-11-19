@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<simple>
+
+<question >
+<q number="1"> What is the most common blood type ?</q>
+<answer correct="Y"> Type O+ </answer> 
+<answer correct="N"> Type A </answer> 
+<answer correct ="N"> Type B+ </answer> 
+</question>
+
+<question>
+<q> Which is the capital of France ?</q>
+<answer correct="Y">Paris </answer>
+<answer correct="N"> Nice </answer>
+<answer correct="N">Lyon </answer>
+</question>
+
+<question>
+<q> Which country has the largest population in the world? </q>
+<answer correct="N">India </answer>
+<answer correct="Y">China </answer>
+<answer correct="N">United States of America </answer>
+</question>
+
+<question>
+<q>What was the name of the first manned mission to land on the moon? </q>
+<answer correct="Y">Apollo 11 </answer>
+<answer correct="N">Apollo 13 </answer>
+<answer correct="N">Apollo 12 </answer>
+</question>
+
+<question>
+<q>What color is the M in McDonald's? </q>
+<answer correct="Y">Yellow </answer>
+<answer correct="N">Green </answer>
+<answer correct="N" >Red </answer>
+</question>
+
+<question>
+<q>Which gas is balloon gas, which is used to fill party balloons that float in the air?</q>
+<answer correct="Y">Helium </answer>
+<answer correct="N">Co2 </answer>
+<answer correct="N">Oxygen </answer>
+</question>
+
+<question>
+<q>How many days are there in February in a leap year?</q>
+<answer correct="N">28 </answer>
+<answer correct="Y">29 </answer>
+<answer correct="N">30 </answer>
+</question>
+
+<question>
+<q>How many minutes does an hour has?</q>
+<answer correct="Y">60 </answer>
+<answer correct="N">360 </answer>
+<answer correct="N">3600 </answer>
+</question>
+
+<question>
+<q>what colors make purple?</q>
+<answer correct="Y">red  and blue </answer>
+<answer correct="N">blue and green </answer>
+<answer correct="N">green and yellow </answer>
+</question>
+
+<question>
+<q>Which is the country with the biggest population in Europe?</q>
+<answer correct="Y">Russia </answer>
+<answer correct="N">Greece </answer>
+<answer correct="N">Germany </answer>
+</question>
+
+<question>
+<q>H2O is the chemical formula for what?</q>
+<answer correct="N">oxygen</answer>
+<answer correct="Y">water</answer>
+<answer correct="N"> carbon </answer>
+</question>
+
+<question>
+<q>Who was the first man to land on the moon? </q>
+<answer correct="N">Lance Armstrong </answer>
+<answer correct="N">Louis Armstrong </answer>
+<answer correct="Y">Neil Armstrong </answer>
+</question>
+
+<question>
+<q>Does the earth go round the sun or the sun go round the earth?</q>
+<answer correct="Y">The earth goes round the sun </answer>
+<answer correct="N">The sun goes round the earth</answer>
+<answer correct="N">none of the above</answer>
+</question>
+
+<question>
+<q>What is the capital of Australia?</q>
+<answer correct="N">Adelaide </answer>
+<answer correct="Y">Sydney </answer>
+<answer correct="N">Canberra</answer>
+</question>
+
+<question>
+In which country is the Great Wall?
+<answer correct="Y">China </answer>
+<answer correct="N">America</answer>
+<answer correct="N">Italy</answer>
+</question>
+
+<question>
+What does a seismograph detect?
+Storm
+Herricane
+Earthquakes-
+</question>
+
+<question>
+What's the name of the fairy in Peter Pan?
+Tinkerbell-
+Tirbell
+Tikerbell
+</question>
+
+<question>
+What type of energy is harnessed from the sun?
+wind
+solar-
+thermal
+</question>
+
+<question>
+Bill Gates was the principal founder of which computer company?
+Microsoft
+Apple
+Dell
+</question>
+
+<question>
+Name the longest river in Africa?
+Zambezi
+Nile -
+Congo River
+</question>
+
+<question>
+By which three letter abbreviation do we better know the name given to the genetic instructions of all known living organisms?
+RNA
+DNA
+other
+</question>
+
+<question>
+HTML and CSS are computer languages used to create what?
+websites
+dynamic websites
+applications
+</question>
+
+<question>
+What is next in this sequence 2,4,6,8,10,12?
+14
+16
+13
+</question>
+
+<question>
+Which word is a palindrome?
+madam-
+miss
+lady
+</question>
+
+<question>
+What is 20% of 40? 
+8
+20
+10
+</question>
+
+
+
+
+</simple>
+----
+<medium>
+<question>
+<q>Which is the dangerous mark of the Richter scale which records earthquake?</q>
+<answer correct="Y">6 and above</answer>
+<answer correct="N">7 and above</answer>
+<answer correct="N">8 and above</answer>
+</question>
+
+<question>
+<q>What Greek mathematician is considered the founder and father of Geometry?</q>
+<answer correct="Y">Euclid</answer>
+<answer correct="N">Leonhard Euler</answer>
+<answer correct="N">Pythagoras</answer>
+</question>
+
+<question>
+<q>Which scientist developed the theory of relativity</q>
+<answer correct="Y">Albert Einstein </answer>
+<answer correct="N">Archimedes</answer>
+<answer correct="N">Aristotle </answer>
+</question>
+
+<question>
+<q>By land area, which is the largest state in the USA?</q>
+<answer correct="Y">Alaska </answer>
+<answer correct="N">Texas </answer>
+<answer correct="N">California</answer>
+</question>
+
+<question>
+<q>Who was the first president of the United States? </q>
+<answer correct="N">Jimmy Carter </answer>
+<answer correct="Y">George Washington </answer>
+<answer correct="N">John Adams </answer>
+</question>
+
+<question>
+<q>Which is NOT a branch of government? </q>
+<answer correct="N">Judicial</answer>
+<answer correct="N">Executive</answer>
+<answer correct="Y">Military </answer>
+</question>
+
+<question>
+<q>Who wrote the Declaration of Independence? </q>
+<answer correct="N">Al Gore</answer>
+<answer correct="N">Abraham Lincoln</answer>
+<answer correct="Y">Thomas Jefferson </answer>
+</question>
+
+<question>
+<q>Created in 2009, what was the first decentralized cryptocurrency?</q>
+<answer correct="Y">bitcoin</answer>
+<answer correct="N">etheras</answer>
+<answer correct="N">other</answer>
+</question>
+
+<question>
+<q>When referring to a computer monitor, what does the acronym LCD stand for?</q>
+<answer correct="Y">Liquid Crystal Display </answer>
+<answer correct="N">Live Clear Data</answer>
+<answer correct="N">Local Coverage Determination</answer>
+</question>
+
+<question>
+<q>Nintendo is a consumer electronics and video game company founded in what country?</q>
+<answer correct="N">China </answer>
+<answer correct="Y">Japan</answer>
+<answer correct="N">Brazil</answer>
+</question>
+
+<question>
+<q>What is the biggest fish in the ocean?</q>
+<answer correct="N">basking Shark</answer>
+<answer correct="Y">Whale Shark </answer>
+<answer correct="N">Blue Whale</answer>
+</question>
+
+<question>
+<q>What percentage of people are left-handed</q>
+<answer correct="N">5%</answer>
+<answer correct="Y">10% </answer>
+<answer correct="N">25%</answer>
+</question>
+
+<question>
+<q>Which gland in the human body regulates metabolism?</q>
+<answer correct="Y">Thyroid </answer>
+<answer correct="N">Heart </answer>
+<answer correct="N">Scott </answer>
+</question>
+</medium>
+<hard>
+
+
+
+
+<question>
+<q>The sun makes up more than 99% of the mass of the solar system. (True or False)</q>
+<answer correct="Y">true </answer>
+<answer correct="N">false </answer>
+</question>
+
+<question>
+<q>Which active volcano, the highest in Europe, lies in the island of Sicily?</q>
+<answer correct="Y">etna </answer>
+<answer correct="N">vesuvius</answer>
+<answer correct="N">hekla</answer>
+</question>
+
+<question>
+<q>What is the most abundant element in the earth's atmosphere?</q>
+<answer correct="Y">Nitrogen </answer>
+<answer correct="N">oxygen </answer>
+<answer correct="N">Argon </answer>
+</question>
+<question>
+<q>Strontium produces what colour in fireworks?</q>
+<answer correct="N">Yellow </answer>
+<answer correct="N">Blue </answer>
+<answer correct="Y">Red</answer>
+</question>
+
+<question>
+<q>Who won the first ever World Cup</q>
+<answer correct="Y">Uruguay </answer>
+<answer correct="N">Germany</answer>
+<answer correct="N">Brazil</answer>
+</question>
+
+<question>
+<q>From which language is the word "ketchup" derived?</q>
+<answer correct="Y">chinese </answer>
+<answer correct="N">english</answer>
+<answer correct="N">french</answer>
+</question>
+
+<question>
+<q>Where do hurricanes normally form? </q>
+<answer correct="Y">Over tropical seas </answer>
+<answer correct="N">Over polar seas</answer>
+<answer correct="N">Over tropical biomes</answer>
+</question>
+
+<question>
+<q>How many bones are there in the human body</q>
+<answer correct="N">351</answer>
+<answer correct="N">452</answer>
+<answer correct="Y">206 </answer>
+</question>
+
+<question>
+<q>How many players make up a Basketball team? </q>
+<answer correct="Y">Five </answer>
+<answer correct="N">six </answer>
+<answer correct="N">seven </answer>
+</question>
+
+<question>
+<q>How many teeth does an adult have?</q>
+<answer correct="Y">32 </answer>
+<answer correct="N">35</answer>
+<answer correct="N">44</answer>
+</question>
+
+<question>
+<q>Which country is the world's biggest producer of coffee? </q>
+<answer correct="Y">Brazil </answer>
+<answer correct="N">Italy </answer>
+<answer correct="N">China </answer>
+</question>
+
+<question>
+
+<q>How many states make up the United States of America</q>
+<answer correct="N">55</answer>
+<answer correct="N">53</answer>
+<answer correct="Y">50 </answer>
+</question>
+
+<question>
+<q>Which planet has the feeling that sun rises in the west?</q>
+<answer correct="Y">Venus </answer>
+<answer correct="N">Mercury </answer>
+<answer correct="N">Mars</answer>
+</question>
+
+</hard>
+</quiz>
